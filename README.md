@@ -1,106 +1,98 @@
-# ByteWise
+<h1 align="center">ByteWise / AI Systems Lab</h1>
 
 <p align="center">
-  <strong>Agent Systems / Evaluation Labs / Applied AI</strong><br>
-  <sub>building executable, measurable, reproducible AI workflows</sub>
+  <strong>Agent runtime. Evaluation harnesses. Applied AI systems.</strong><br>
+  <sub>from prototype to verified, reproducible workflow</sub>
 </p>
 
+```text
+┌──────────────────────────────────────────────────────────────┐
+│ BYTEWISE                                                     │
+│                                                              │
+│ 01  Agent runtime        local coding agents, memory, tools  │
+│ 02  Evaluation lab       benchmark, compare, verify          │
+│ 03  Applied research     forecasting, modeling, experiments  │
+│ 04  Product surface      TypeScript, Python, Vue             │
+│                                                              │
+│ pipeline: idea -> harness -> experiment -> product           │
+└──────────────────────────────────────────────────────────────┘
+```
+
 <p align="center">
-  <a href="https://github.com/2830500285/omni-agent">omni-agent</a>
-  ·
-  <a href="https://github.com/2830500285/glaude-vibe-coder">glaude-vibe-coder</a>
-  ·
-  <a href="https://github.com/2830500285/swarm-eval-lab">swarm-eval-lab</a>
-  ·
-  <a href="https://github.com/2830500285/agent-eval-learning">agent-eval-learning</a>
+  <a href="https://github.com/2830500285/omni-agent"><strong>omni-agent</strong></a>
+  &nbsp;/&nbsp;
+  <a href="https://github.com/2830500285/swarm-eval-lab"><strong>swarm-eval-lab</strong></a>
+  &nbsp;/&nbsp;
+  <a href="https://github.com/2830500285/glaude-vibe-coder"><strong>glaude-vibe-coder</strong></a>
+  &nbsp;/&nbsp;
+  <a href="https://github.com/2830500285/agent-eval-learning"><strong>agent-eval-learning</strong></a>
 </p>
 
 ---
 
-## Snapshot
+### Current Vector
 
-I build AI-agent systems, evaluation harnesses, and applied research tools. My public projects focus on making AI workflows less like demos and more like systems that can be run, inspected, measured, and improved.
+I build AI-agent systems, evaluation harnesses, and applied research tools. The goal is simple: make AI workflows executable, measurable, and useful in real projects.
 
-我关注 Agent runtime、模型评测、数学建模、数据实验和工程化落地。主页风格保持浅蓝科技感，但不使用外部生成图片，只用 GitHub README 支持的 Markdown / HTML。
+我关注 Agent runtime、模型评测、数学建模、数据实验和工程化落地。相比展示概念，我更倾向于把项目做成可以运行、可以验证、可以复现的系统。
 
-## Research And Build Matrix
-
-<table>
-  <tr>
-    <th align="left">Track</th>
-    <th align="left">Signal</th>
-    <th align="left">Representative repos</th>
-  </tr>
-  <tr>
-    <td><strong>Agent Runtime</strong></td>
-    <td>local coding agent, verification gates, memory, subagents, model profiles</td>
-    <td><a href="https://github.com/2830500285/omni-agent">omni-agent</a></td>
-  </tr>
-  <tr>
-    <td><strong>Agent Evaluation</strong></td>
-    <td>benchmarks, eval harnesses, swarm strategy comparison, practical handbooks</td>
-    <td><a href="https://github.com/2830500285/swarm-eval-lab">swarm-eval-lab</a> / <a href="https://github.com/2830500285/agent-eval-learning">agent-eval-learning</a> / <a href="https://github.com/2830500285/Harness-Learning">Harness-Learning</a></td>
-  </tr>
-  <tr>
-    <td><strong>Applied AI</strong></td>
-    <td>traffic-flow forecasting, digital comparative advantage, reproducible experiments</td>
-    <td><a href="https://github.com/2830500285/deep-learning-traffic-flow-forecasting-system">traffic forecasting system</a> / <a href="https://github.com/2830500285/ai-driven-digital-comparative-advantage-trade-study">trade study</a></td>
-  </tr>
-  <tr>
-    <td><strong>Product Engineering</strong></td>
-    <td>TypeScript tools, Vue interfaces, Python modeling, campus navigation</td>
-    <td><a href="https://github.com/2830500285/glaude-vibe-coder">glaude-vibe-coder</a> / <a href="https://github.com/2830500285/sdust-qingdao-campus-navigation">sdust navigation</a></td>
-  </tr>
-</table>
-
-## Selected Repositories
+### Core Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/2830500285/omni-agent">omni-agent</a></h3>
+      <h3><a href="https://github.com/2830500285/omni-agent">01 / omni-agent</a></h3>
       <p>Verification-native local coding agent runtime with eval gates, memory, subagents, and model profiles.</p>
-      <p><code>TypeScript</code> <code>Agent Runtime</code> <code>Evals</code></p>
+      <p><code>TypeScript</code> <code>runtime</code> <code>eval gates</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/2830500285/glaude-vibe-coder">glaude-vibe-coder</a></h3>
-      <p>A coding-agent project focused on practical AI-assisted development workflows.</p>
-      <p><code>TypeScript</code> <code>Coding Agent</code></p>
+      <h3><a href="https://github.com/2830500285/swarm-eval-lab">02 / swarm-eval-lab</a></h3>
+      <p>Python lab for benchmarking single-agent and swarm strategies with practical comparison workflows.</p>
+      <p><code>Python</code> <code>benchmark</code> <code>multi-agent</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/2830500285/swarm-eval-lab">swarm-eval-lab</a></h3>
-      <p>A Python multi-agent evaluation lab for benchmarking single-agent and swarm strategies.</p>
-      <p><code>Python</code> <code>Benchmark</code> <code>Multi-Agent</code></p>
+      <h3><a href="https://github.com/2830500285/glaude-vibe-coder">03 / glaude-vibe-coder</a></h3>
+      <p>Coding-agent project focused on practical AI-assisted software development workflows.</p>
+      <p><code>TypeScript</code> <code>coding agent</code> <code>workflow</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/2830500285/deep-learning-traffic-flow-forecasting-system">traffic-flow forecasting system</a></h3>
-      <p>A desktop application for traffic-flow prediction with LSTM and iTransformer models.</p>
-      <p><code>Python</code> <code>Deep Learning</code> <code>Forecasting</code></p>
+      <h3><a href="https://github.com/2830500285/deep-learning-traffic-flow-forecasting-system">04 / traffic-flow forecasting</a></h3>
+      <p>Desktop forecasting application built around LSTM and iTransformer traffic-flow prediction models.</p>
+      <p><code>Python</code> <code>forecasting</code> <code>deep learning</code></p>
     </td>
   </tr>
 </table>
 
-## Operating Principles
+### Knowledge Base
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <strong><a href="https://github.com/2830500285/agent-eval-learning">agent-eval-learning</a></strong><br>
+      practical LLM and agent evaluation handbook
+    </td>
+    <td width="33%" valign="top">
+      <strong><a href="https://github.com/2830500285/Harness-Learning">Harness-Learning</a></strong><br>
+      bilingual guide for agent harness design
+    </td>
+    <td width="33%" valign="top">
+      <strong><a href="https://github.com/2830500285/ai-driven-digital-comparative-advantage-trade-study">trade-study</a></strong><br>
+      reproducible applied AI research package
+    </td>
+  </tr>
+</table>
+
+### Operating System
 
 ```text
-01. Build systems that can be verified.
-02. Prefer reproducible experiments over vague demos.
-03. Keep documentation close to runnable examples.
-04. Use TypeScript for runtime/tooling, Python for modeling, Vue for focused interfaces.
+verify first      -> tests, evals, benchmarks, observable behavior
+ship small        -> narrow capability units instead of vague platforms
+document clearly  -> examples, playbooks, reproducible steps
+iterate locally   -> TypeScript runtime + Python experiments + Vue interfaces
 ```
-
-## Direction
-
-```text
-Agent Runtime -> Eval Harness -> Reproducible Experiment -> Practical Product
-        ^                                                        |
-        |--------------------------------------------------------|
-```
-
----
 
 <p align="center">
-  <sub>light-blue profile style, implemented with Markdown and safe GitHub HTML only</sub>
+  <sub>Profile README built with safe GitHub HTML and Markdown. No generated image banners, no external stat cards.</sub>
 </p>
