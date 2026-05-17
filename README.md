@@ -1,129 +1,131 @@
-<h1 align="center">ByteWise</h1>
+<div align="center">
 
-<p align="center">
-  <strong>AI systems builder focused on agent runtime, evaluation harnesses, and applied research.</strong><br>
-  <sub>Build small. Verify hard. Ship systems that can be reproduced.</sub>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:eff6ff,35:bae6fd,75:38bdf8,100:0ea5e9&text=ByteWise&fontAlign=50&fontAlignY=35&fontColor=082f49&fontSize=66&desc=Agent%20Runtime%20%7C%20Evaluation%20Harness%20%7C%20Applied%20AI%20Systems&descAlign=50&descAlignY=58&descSize=18&animation=fadeIn" alt="ByteWise banner" />
 
-<p align="center">
-  <a href="https://github.com/2830500285/omni-agent"><img alt="Agent Runtime" src="https://img.shields.io/badge/Agent_Runtime-local_coding_AI-38BDF8?style=for-the-badge&amp;labelColor=E0F2FE&amp;color=38BDF8"></a>
-  <a href="https://github.com/2830500285/swarm-eval-lab"><img alt="Evaluation Lab" src="https://img.shields.io/badge/Evaluation_Lab-benchmark_driven-7DD3FC?style=for-the-badge&amp;labelColor=EFF6FF&amp;color=7DD3FC"></a>
-  <a href="https://github.com/2830500285/agent-eval-learning"><img alt="Knowledge Base" src="https://img.shields.io/badge/Knowledge_Base-agent_evals-BAE6FD?style=for-the-badge&amp;labelColor=F8FAFC&amp;color=BAE6FD"></a>
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=700&color=0284C7&center=true&vCenter=true&width=900&lines=Building+verification-native+AI+agent+systems;Designing+evaluation+harnesses+for+real+workflows;Turning+applied+AI+research+into+reproducible+projects" alt="Typing SVG" />
+</a>
 
-<p align="center">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0EA5E9?style=flat-square&amp;logo=typescript&amp;logoColor=white">
-  <img alt="Python" src="https://img.shields.io/badge/Python-0284C7?style=flat-square&amp;logo=python&amp;logoColor=white">
-  <img alt="Vue" src="https://img.shields.io/badge/Vue-7DD3FC?style=flat-square&amp;logo=vue.js&amp;logoColor=0F172A">
-  <img alt="OpenAI" src="https://img.shields.io/badge/LLM_Workflows-E0F2FE?style=flat-square&amp;logo=openai&amp;logoColor=0369A1">
-</p>
+<br>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img alt="GitHub profile trophies" src="https://github-profile-trophy.vercel.app/?username=2830500285&amp;theme=algolia&amp;no-frame=true&amp;no-bg=true&amp;margin-w=10&amp;margin-h=10&amp;row=1&amp;column=6">
-  </a>
-</p>
+<a href="https://github.com/2830500285?tab=repositories">
+  <img src="https://img.shields.io/badge/Public%20Repos-18-38bdf8?style=for-the-badge&labelColor=e0f2fe&logo=github&logoColor=0369a1" alt="Public repositories" />
+</a>
+<a href="https://github.com/2830500285/omni-agent">
+  <img src="https://img.shields.io/badge/Focus-Agent%20Runtime-0ea5e9?style=for-the-badge&labelColor=e0f2fe&logo=openai&logoColor=0369a1" alt="Agent runtime" />
+</a>
+<a href="https://github.com/2830500285/swarm-eval-lab">
+  <img src="https://img.shields.io/badge/Lab-Evaluations-7dd3fc?style=for-the-badge&labelColor=f0f9ff&logo=githubactions&logoColor=0369a1" alt="Evaluation lab" />
+</a>
+
+</div>
 
 ---
 
-## System Profile
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=2830500285&theme=algolia&no-frame=true&no-bg=true&margin-w=12&margin-h=12&row=1&column=6" alt="GitHub trophies" />
+</div>
 
-```text
-identity      ByteWise
-focus         AI agent runtime / eval harness / applied modeling
-method        measurable workflows before broad claims
-output        repos, examples, playbooks, experiments
-stack         TypeScript + Python + Vue
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crystal%20Ball.png" width="28" alt="crystal ball" /> About Me
+
+```yaml
+name: ByteWise
+role: AI systems builder
+current_focus:
+  - verification-native local coding agents
+  - evaluation harnesses and benchmark loops
+  - applied AI research with reproducible artifacts
+  - TypeScript tools, Python experiments, Vue interfaces
+principle: "Build small. Verify hard. Ship systems that can be reproduced."
 ```
 
-我关注 Agent runtime、模型评测、数学建模、数据实验和工程化落地。主页参考了 GitHub Profile README 常见的模块化结构，但内容按我的公开项目重新组织。
+我关注 Agent runtime、模型评测、数学建模、数据实验和工程化落地。我的公开仓库主要围绕一个方向：把 AI 工作流从 demo 做成可运行、可评测、可复现的系统。
 
-## Mission Map
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="28" alt="laptop" /> Tech Stack
 
-<table>
-  <tr>
-    <td width="25%" valign="top">
-      <strong>01 / Runtime</strong><br>
-      local coding agents, memory, tools, model profiles
-    </td>
-    <td width="25%" valign="top">
-      <strong>02 / Evaluation</strong><br>
-      benchmarks, gates, comparison loops, swarm experiments
-    </td>
-    <td width="25%" valign="top">
-      <strong>03 / Research</strong><br>
-      forecasting, modeling, reproducibility, data experiments
-    </td>
-    <td width="25%" valign="top">
-      <strong>04 / Product</strong><br>
-      usable interfaces, docs, examples, deployment paths
-    </td>
-  </tr>
-</table>
+<div align="center">
 
-## Featured Work
+<img src="https://skillicons.dev/icons?i=ts,js,python,vue,nodejs,vite,git,github,md&theme=light" alt="Skill icons" />
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/2830500285/omni-agent">omni-agent</a></h3>
-      <p>Verification-native local coding agent runtime with eval gates, memory, subagents, and model profiles.</p>
-      <p><code>TypeScript</code> <code>agent-runtime</code> <code>eval-gates</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/2830500285/glaude-vibe-coder">glaude-vibe-coder</a></h3>
-      <p>Coding-agent workflow project for practical AI-assisted software development.</p>
-      <p><code>TypeScript</code> <code>coding-agent</code> <code>workflow</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/2830500285/swarm-eval-lab">swarm-eval-lab</a></h3>
-      <p>Python evaluation lab for benchmarking single-agent and swarm strategies.</p>
-      <p><code>Python</code> <code>benchmark</code> <code>multi-agent</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/2830500285/deep-learning-traffic-flow-forecasting-system">traffic-flow forecasting system</a></h3>
-      <p>Desktop forecasting application built around LSTM and iTransformer traffic-flow models.</p>
-      <p><code>Python</code> <code>deep-learning</code> <code>forecasting</code></p>
-    </td>
-  </tr>
-</table>
+<br><br>
 
-## Knowledge Base
+<img src="https://img.shields.io/badge/Agent%20Systems-e0f2fe?style=flat-square&logo=openai&logoColor=0369a1" alt="Agent systems" />
+<img src="https://img.shields.io/badge/Evaluation%20Harness-bae6fd?style=flat-square&logo=githubactions&logoColor=0369a1" alt="Evaluation harness" />
+<img src="https://img.shields.io/badge/Applied%20AI-7dd3fc?style=flat-square&logo=python&logoColor=0f172a" alt="Applied AI" />
+<img src="https://img.shields.io/badge/Reproducible%20Research-38bdf8?style=flat-square&logo=jupyter&logoColor=ffffff" alt="Reproducible research" />
+
+</div>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="28" alt="rocket" /> Featured Systems
+
+<div align="center">
+
+<a href="https://github.com/2830500285/omni-agent">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=2830500285&repo=omni-agent&hide_border=true&bg_color=ffffff&title_color=0284c7&text_color=334155&icon_color=38bdf8" alt="omni-agent" />
+</a>
+<a href="https://github.com/2830500285/glaude-vibe-coder">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=2830500285&repo=glaude-vibe-coder&hide_border=true&bg_color=ffffff&title_color=0284c7&text_color=334155&icon_color=38bdf8" alt="glaude-vibe-coder" />
+</a>
+
+<a href="https://github.com/2830500285/swarm-eval-lab">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=2830500285&repo=swarm-eval-lab&hide_border=true&bg_color=ffffff&title_color=0284c7&text_color=334155&icon_color=38bdf8" alt="swarm-eval-lab" />
+</a>
+<a href="https://github.com/2830500285/deep-learning-traffic-flow-forecasting-system">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=2830500285&repo=deep-learning-traffic-flow-forecasting-system&hide_border=true&bg_color=ffffff&title_color=0284c7&text_color=334155&icon_color=38bdf8" alt="traffic-flow forecasting system" />
+</a>
+
+</div>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" alt="bar chart" /> GitHub Signal
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=2830500285&show_icons=true&hide_title=true&hide_border=true&bg_color=ffffff&title_color=0284c7&text_color=334155&icon_color=38bdf8&rank_icon=github" alt="GitHub stats" />
+<img width="49%" src="https://streak-stats.demolab.com?user=2830500285&hide_border=true&background=ffffff&ring=38bdf8&fire=0ea5e9&currStreakLabel=0284c7&sideLabels=334155&dates=64748b&currStreakNum=0f172a&sideNums=0f172a" alt="GitHub streak" />
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2830500285&layout=compact&hide_border=true&bg_color=ffffff&title_color=0284c7&text_color=334155" alt="Top languages" />
+<img width="48%" src="https://github-contributor-stats.vercel.app/api?username=2830500285&limit=5&theme=transparent&combine_all_yearly_contributions=true&hide_border=true" alt="Top contributed repos" />
+
+</div>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="28" alt="sparkles" /> Knowledge Projects
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <strong><a href="https://github.com/2830500285/agent-eval-learning">agent-eval-learning</a></strong><br>
-      Practical guide for LLM and agent evaluation.
+      <h3><a href="https://github.com/2830500285/agent-eval-learning">agent-eval-learning</a></h3>
+      <p>Bilingual knowledge base for agent and LLM evaluation.</p>
+      <p><code>evals</code> <code>LLM</code> <code>playbooks</code></p>
     </td>
     <td width="33%" valign="top">
-      <strong><a href="https://github.com/2830500285/Harness-Learning">Harness-Learning</a></strong><br>
-      Bilingual handbook for agent harness design.
+      <h3><a href="https://github.com/2830500285/Harness-Learning">Harness-Learning</a></h3>
+      <p>Practical handbook for agent harness design and workflow structure.</p>
+      <p><code>harness</code> <code>agents</code> <code>docs</code></p>
     </td>
     <td width="33%" valign="top">
-      <strong><a href="https://github.com/2830500285/ai-driven-digital-comparative-advantage-trade-study">trade-study</a></strong><br>
-      Reproducible applied AI research package.
+      <h3><a href="https://github.com/2830500285/ai-driven-digital-comparative-advantage-trade-study">trade-study</a></h3>
+      <p>Public reproducibility package for applied AI trade research.</p>
+      <p><code>research</code> <code>python</code> <code>reproducible</code></p>
     </td>
   </tr>
 </table>
 
-## Operating Principles
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Compass.png" width="28" alt="compass" /> Operating Loop
 
 ```text
-verify first       tests, evals, benchmarks, observable behavior
-ship small         focused capability units over vague platforms
-write clearly      README, examples, playbooks, reproducible steps
-iterate locally    fast feedback before broad integration
+specify the workflow -> build a narrow harness -> run measurable checks
+        ^                                                   |
+        |------------- improve from evidence ---------------|
 ```
 
-<p align="center">
-  <a href="https://github.com/2830500285/omni-agent">omni-agent</a>
-  ·
-  <a href="https://github.com/2830500285/swarm-eval-lab">swarm-eval-lab</a>
-  ·
-  <a href="https://github.com/2830500285/agent-eval-learning">agent-eval-learning</a>
-  ·
-  <a href="https://github.com/2830500285/Harness-Learning">Harness-Learning</a>
-</p>
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=2830500285&bg_color=ffffff&color=334155&line=38bdf8&point=0284c7&area=true&area_color=bae6fd&hide_border=true&custom_title=Contribution%20Flow" alt="Contribution activity graph" />
+
+<br>
+
+<a href="https://github.com/2830500285?tab=repositories">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:eff6ff,45:bae6fd,100:38bdf8" alt="footer wave" />
+</a>
+
+</div>
