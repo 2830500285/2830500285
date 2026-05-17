@@ -1,183 +1,175 @@
 <div align="center">
 
-<img width="100%" src="./assets/bytewise-control-room.svg" alt="ByteWise AI Systems Lab control room banner" />
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=24&amp;duration=2600&amp;pause=650&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=980&amp;lines=Verification-native+agent+runtime;Evaluation+harnesses+for+real+AI+workflows;Applied+AI+research+with+reproducible+artifacts;TypeScript+systems+%2B+Python+experiments+%2B+Vue+interfaces" alt="Typing SVG" />
-</a>
+<img width="100%" src="./assets/morandi-hero.svg" alt="ByteWise Morandi systems profile banner" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=2830500285&amp;style=for-the-badge&amp;color=0ea5e9&amp;label=PROFILE+SIGNAL" alt="Profile views" />
-<a href="https://github.com/2830500285?tab=repositories"><img src="https://img.shields.io/badge/Public_Repos-18-38bdf8?style=for-the-badge&amp;labelColor=0f172a&amp;logo=github&amp;logoColor=38bdf8" alt="Public repositories" /></a>
-<a href="https://github.com/2830500285/omni-agent"><img src="https://img.shields.io/badge/Primary_System-omni--agent-0ea5e9?style=for-the-badge&amp;labelColor=0f172a&amp;logo=openai&amp;logoColor=38bdf8" alt="omni-agent" /></a>
-<a href="https://github.com/2830500285/swarm-eval-lab"><img src="https://img.shields.io/badge/Eval_Lab-swarm--eval--lab-7dd3fc?style=for-the-badge&amp;labelColor=0f172a&amp;logo=githubactions&amp;logoColor=7dd3fc" alt="swarm-eval-lab" /></a>
-
-<p>
-  <a href="#mission-control">Mission Control</a>
-  |
-  <a href="#systems-architecture">Systems Architecture</a>
-  |
-  <a href="#project-constellation">Project Constellation</a>
-  |
-  <a href="#metrics-deck">Metrics Deck</a>
-  |
-  <a href="#execution-roadmap">Execution Roadmap</a>
-</p>
+<a href="#system-profile">System Profile</a>
+&nbsp;|&nbsp;
+<a href="#research-and-build-map">Research Map</a>
+&nbsp;|&nbsp;
+<a href="#project-portfolio">Project Portfolio</a>
+&nbsp;|&nbsp;
+<a href="#architecture-board">Architecture Board</a>
+&nbsp;|&nbsp;
+<a href="#execution-signal">Execution Signal</a>
 
 </div>
 
 ---
 
-## Mission Control
+## System Profile
 
 ```yaml
-operator: ByteWise
-domain: AI systems engineering
-signature:
-  - local coding agents with verification gates
-  - benchmark-driven evaluation harnesses
-  - reproducible applied AI research packages
+handle: ByteWise
+account: 2830500285
+mode: local-first AI systems engineering
+palette: Morandi / low-saturation / calm technical
+focus:
+  - verification-native coding agents
+  - evaluation harnesses and benchmark gates
+  - reproducible applied AI research
   - TypeScript runtime, Python experiments, Vue interfaces
-operating_rule: "If it cannot be measured, it is not finished."
+principle: "Build systems that can be run, inspected, measured, and improved."
 ```
 
 <table>
   <tr>
     <td width="25%" valign="top">
-      <strong>Runtime Core</strong><br>
-      Build local coding-agent systems with memory, tool routing, model profiles, and observable execution loops.
+      <strong>Agent Runtime</strong><br>
+      Local coding-agent loops, memory, model profiles, subagents, approvals, and verifiable execution.
     </td>
     <td width="25%" valign="top">
-      <strong>Eval Layer</strong><br>
-      Turn vague AI behavior into benchmark cases, scorecards, gates, and repeatable comparison workflows.
+      <strong>Evaluation Layer</strong><br>
+      Benchmarks, scorecards, failure cases, harness design, and comparison workflows.
     </td>
     <td width="25%" valign="top">
       <strong>Research Engine</strong><br>
-      Package forecasting, modeling, and data experiments as reproducible projects instead of one-off notebooks.
+      Forecasting, modeling, reproducibility packages, and practical data experiments.
     </td>
     <td width="25%" valign="top">
       <strong>Product Surface</strong><br>
-      Use clean TypeScript/Vue interfaces and documentation to make systems understandable and operable.
+      Vue and TypeScript interfaces that make complex AI systems easier to operate.
     </td>
   </tr>
 </table>
 
-## Systems Architecture
+## Research And Build Map
 
-```mermaid
-%%{init: {"theme":"base","themeVariables":{"background":"#ffffff","primaryColor":"#e0f2fe","primaryTextColor":"#0f172a","primaryBorderColor":"#38bdf8","lineColor":"#0284c7","secondaryColor":"#f8fafc","tertiaryColor":"#dbeafe","fontFamily":"JetBrains Mono, Consolas, monospace"}}}%%
-flowchart LR
-  A["Problem Signal"] --> B["Task Spec"]
-  B --> C["Agent Runtime"]
-  C --> D["Tool / Memory Layer"]
-  C --> E["Evaluation Harness"]
-  E --> F["Benchmark Result"]
-  F --> G{"Pass Gate?"}
-  G -->|yes| H["Product / Research Artifact"]
-  G -->|no| I["Failure Analysis"]
-  I --> B
-  D --> E
-  H --> J["Docs / Playbooks"]
-  J --> A
+| Track | Core signal | Representative repositories |
+| --- | --- | --- |
+| Local agent runtime | verification gates, memory, subagents, model profiles | [omni-agent](https://github.com/2830500285/omni-agent), [glaude-vibe-coder](https://github.com/2830500285/glaude-vibe-coder), [openclaw](https://github.com/2830500285/openclaw) |
+| Evaluation systems | benchmark cases, harnesses, practical scoreboards | [swarm-eval-lab](https://github.com/2830500285/swarm-eval-lab), [agent-eval-learning](https://github.com/2830500285/agent-eval-learning), [Harness-Learning](https://github.com/2830500285/Harness-Learning) |
+| Applied AI research | reproducible modeling, forecasting, explainability | [deep-learning-traffic-flow-forecasting-system](https://github.com/2830500285/deep-learning-traffic-flow-forecasting-system), [deep-learning-traffic-flow-research-experiments](https://github.com/2830500285/deep-learning-traffic-flow-research-experiments), [ai-driven-digital-comparative-advantage-trade-study](https://github.com/2830500285/ai-driven-digital-comparative-advantage-trade-study) |
+| Developer tooling | skills, frameworks, workflow infrastructure | [skills](https://github.com/2830500285/skills), [agent-skills](https://github.com/2830500285/agent-skills), [vercel](https://github.com/2830500285/vercel), [next.js](https://github.com/2830500285/next.js) |
+| Interface systems | desktop tools, maps, personal homepage | [2830500285.github.io](https://github.com/2830500285/2830500285.github.io), [sdust-qingdao-campus-navigation](https://github.com/2830500285/sdust-qingdao-campus-navigation) |
 
-  classDef core fill:#e0f2fe,stroke:#0284c7,stroke-width:2px,color:#0f172a;
-  classDef signal fill:#f8fafc,stroke:#7dd3fc,stroke-width:1px,color:#0f172a;
-  classDef gate fill:#dbeafe,stroke:#38bdf8,stroke-width:2px,color:#0f172a;
-  class C,E,H core;
-  class A,B,D,F,I,J signal;
-  class G gate;
-```
-
-## Project Constellation
+## Project Portfolio
 
 <div align="center">
 
-<a href="https://github.com/2830500285/omni-agent">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=2830500285&amp;repo=omni-agent&amp;theme=algolia&amp;hide_border=false&amp;border_color=38bdf8&amp;bg_color=0d1117&amp;title_color=7dd3fc&amp;text_color=c9d1d9&amp;icon_color=38bdf8" alt="omni-agent repository card" />
-</a>
-<a href="https://github.com/2830500285/glaude-vibe-coder">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=2830500285&amp;repo=glaude-vibe-coder&amp;theme=algolia&amp;hide_border=false&amp;border_color=38bdf8&amp;bg_color=0d1117&amp;title_color=7dd3fc&amp;text_color=c9d1d9&amp;icon_color=38bdf8" alt="glaude-vibe-coder repository card" />
-</a>
-
-<a href="https://github.com/2830500285/swarm-eval-lab">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=2830500285&amp;repo=swarm-eval-lab&amp;theme=algolia&amp;hide_border=false&amp;border_color=38bdf8&amp;bg_color=0d1117&amp;title_color=7dd3fc&amp;text_color=c9d1d9&amp;icon_color=38bdf8" alt="swarm-eval-lab repository card" />
-</a>
-<a href="https://github.com/2830500285/deep-learning-traffic-flow-forecasting-system">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=2830500285&amp;repo=deep-learning-traffic-flow-forecasting-system&amp;theme=algolia&amp;hide_border=false&amp;border_color=38bdf8&amp;bg_color=0d1117&amp;title_color=7dd3fc&amp;text_color=c9d1d9&amp;icon_color=38bdf8" alt="traffic-flow forecasting system repository card" />
-</a>
+<img width="100%" src="./assets/morandi-projects.svg" alt="Morandi project portfolio map" />
 
 </div>
 
 <table>
   <tr>
     <td width="33%" valign="top">
+      <h3><a href="https://github.com/2830500285/omni-agent">omni-agent</a></h3>
+      <p>Verification-native local coding-agent runtime with eval gates, memory, subagents, and model profiles.</p>
+      <p><code>TypeScript</code> <code>agent-runtime</code> <code>eval-gates</code></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/2830500285/glaude-vibe-coder">glaude-vibe-coder</a></h3>
+      <p>Vibe-coding workflow surface focused on faster local iteration and practical developer execution.</p>
+      <p><code>TypeScript</code> <code>coding-agent</code> <code>workflow</code></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/2830500285/swarm-eval-lab">swarm-eval-lab</a></h3>
+      <p>Python multi-agent evaluation lab for benchmarking single-agent and swarm strategies.</p>
+      <p><code>Python</code> <code>benchmarks</code> <code>swarm</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
       <h3><a href="https://github.com/2830500285/agent-eval-learning">agent-eval-learning</a></h3>
-      <p>Bilingual evaluation handbook for LLM and agent systems.</p>
-      <p><code>evals</code> <code>playbooks</code> <code>agent systems</code></p>
+      <p>Bilingual knowledge base for agent and LLM evaluation.</p>
+      <p><code>evaluation</code> <code>handbook</code> <code>LLM</code></p>
     </td>
     <td width="33%" valign="top">
-      <h3><a href="https://github.com/2830500285/Harness-Learning">Harness-Learning</a></h3>
-      <p>Structured notes and examples for agent harness design.</p>
-      <p><code>harness</code> <code>workflow</code> <code>docs</code></p>
+      <h3><a href="https://github.com/2830500285/MathModelAgent">MathModelAgent</a></h3>
+      <p>Agent system for mathematical modeling and paper-ready analytical workflows.</p>
+      <p><code>Python</code> <code>multi-agent</code> <code>modeling</code></p>
     </td>
     <td width="33%" valign="top">
-      <h3><a href="https://github.com/2830500285/ai-driven-digital-comparative-advantage-trade-study">trade-study</a></h3>
-      <p>Reproducible applied AI package for digital comparative advantage research.</p>
-      <p><code>research</code> <code>python</code> <code>reproducibility</code></p>
+      <h3><a href="https://github.com/2830500285/deep-learning-traffic-flow-forecasting-system">traffic-flow forecasting</a></h3>
+      <p>Desktop forecasting application and experiments for LSTM and iTransformer traffic-flow modeling.</p>
+      <p><code>Python</code> <code>forecasting</code> <code>explainability</code></p>
     </td>
   </tr>
 </table>
 
-## Intelligence Stack
+## Architecture Board
+
+```mermaid
+%%{init: {"theme":"base","themeVariables":{"background":"#F4F1EA","primaryColor":"#E7DFD2","primaryTextColor":"#2F3437","primaryBorderColor":"#8FA6B2","lineColor":"#8FA6B2","secondaryColor":"#D9E1D3","tertiaryColor":"#E8D5CB","fontFamily":"Segoe UI, Helvetica, Arial, sans-serif"}}}%%
+flowchart LR
+  A["Problem Signal"] --> B["Task Contract"]
+  B --> C["Local Agent Runtime"]
+  C --> D["Tool Layer"]
+  C --> E["Memory Layer"]
+  C --> F["Evaluation Harness"]
+  F --> G["Scorecard"]
+  G --> H{"Gate"}
+  H -->|pass| I["Artifact"]
+  H -->|fail| J["Failure Case"]
+  J --> B
+  I --> K["Docs / Playbooks"]
+  K --> A
+
+  classDef warm fill:#E7DFD2,stroke:#A69B8F,stroke-width:1px,color:#2F3437;
+  classDef sage fill:#D9E1D3,stroke:#8E9C89,stroke-width:1px,color:#2F3437;
+  classDef blue fill:#D7E2E7,stroke:#8FA6B2,stroke-width:1px,color:#2F3437;
+  classDef clay fill:#E8D5CB,stroke:#C2A091,stroke-width:1px,color:#2F3437;
+  class C,F,G blue;
+  class A,B,D,E,K warm;
+  class I sage;
+  class H,J clay;
+```
+
+## Execution Signal
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,python,vue,nodejs,vite,git,github,md,latex&amp;theme=dark" alt="Skill icons" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Runtime-TypeScript_/_Node-38bdf8?style=flat-square&amp;labelColor=0f172a&amp;logo=typescript&amp;logoColor=38bdf8" alt="TypeScript runtime" />
-<img src="https://img.shields.io/badge/Modeling-Python-0ea5e9?style=flat-square&amp;labelColor=0f172a&amp;logo=python&amp;logoColor=7dd3fc" alt="Python modeling" />
-<img src="https://img.shields.io/badge/UI-Vue_/_Vite-7dd3fc?style=flat-square&amp;labelColor=0f172a&amp;logo=vue.js&amp;logoColor=7dd3fc" alt="Vue UI" />
-<img src="https://img.shields.io/badge/Docs-Markdown_/_Playbooks-bae6fd?style=flat-square&amp;labelColor=0f172a&amp;logo=markdown&amp;logoColor=bae6fd" alt="Markdown docs" />
-<img src="https://img.shields.io/badge/Method-Eval_Gates-e0f2fe?style=flat-square&amp;labelColor=0f172a&amp;logo=githubactions&amp;logoColor=e0f2fe" alt="Eval gates" />
+<img width="100%" src="./assets/morandi-metrics.svg" alt="Morandi execution signal board" />
 
 </div>
 
-## Metrics Deck
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=2830500285&amp;theme=github_dark" alt="Profile details card" />
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=2830500285&amp;theme=github_dark" alt="Repos per language" />
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=2830500285&amp;theme=github_dark" alt="Most commit language" />
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=2830500285&amp;theme=github_dark&amp;utcOffset=8" alt="Productive time" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=2830500285&amp;show_icons=true&amp;theme=algolia&amp;hide_border=true&amp;rank_icon=github&amp;include_all_commits=true" alt="GitHub stats" />
-<img width="49%" src="https://streak-stats.demolab.com?user=2830500285&amp;theme=algolia&amp;hide_border=true&amp;ring=38bdf8&amp;fire=7dd3fc&amp;currStreakLabel=38bdf8" alt="GitHub streak" />
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=2830500285&amp;theme=algolia&amp;no-frame=true&amp;no-bg=true&amp;margin-w=10&amp;margin-h=12&amp;row=2&amp;column=4" alt="GitHub profile trophies" />
-
-</div>
-
-## Execution Roadmap
-
-| Track | Current artifact | Next-level signal |
+| Signal | Current shape | What I keep improving |
 | --- | --- | --- |
-| Agent runtime | [omni-agent](https://github.com/2830500285/omni-agent) | stronger local execution loop, more visible eval gates, operator-grade docs |
-| Coding workflow | [glaude-vibe-coder](https://github.com/2830500285/glaude-vibe-coder) | sharper task pipeline, project templates, replayable examples |
-| Evaluation systems | [swarm-eval-lab](https://github.com/2830500285/swarm-eval-lab) | richer benchmark fixtures, scorecards, comparative reports |
-| Applied modeling | [traffic-flow forecasting system](https://github.com/2830500285/deep-learning-traffic-flow-forecasting-system) | better explainability, datasets, model comparison |
-| Knowledge base | [agent-eval-learning](https://github.com/2830500285/agent-eval-learning) / [Harness-Learning](https://github.com/2830500285/Harness-Learning) | cleaner playbooks, diagrams, runnable examples |
+| Repository system | 18 public repositories organized around agents, evals, research, and interfaces | clearer repo boundaries, better READMEs, more reproducible examples |
+| Main languages | TypeScript for runtimes, Python for modeling and evals, Vue for product surfaces | stronger test gates, typed contracts, operator-grade docs |
+| Agent direction | local-first coding agents with measurable execution loops | benchmark fixtures, replay logs, approvals, failure reports |
+| Research direction | applied AI packages with data, models, and explainable outputs | dataset notes, comparison tables, clean experiment scripts |
 
-## Activity Graph
+## Operating Notes
 
-<div align="center">
+```text
+Spec first        -> define what success means
+Runtime second    -> make the workflow executable
+Evaluation third  -> measure behavior instead of trusting demos
+Artifact last     -> ship something that can be reused
+```
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=2830500285&amp;theme=react-dark&amp;bg_color=0d1117&amp;color=7dd3fc&amp;line=38bdf8&amp;point=e0f2fe&amp;area=true&amp;area_color=38bdf8&amp;hide_border=true&amp;custom_title=ByteWise%20Contribution%20Telemetry" alt="Contribution activity graph" />
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=140&amp;section=footer&amp;color=0:0f172a,45:0284c7,100:38bdf8" alt="Footer wave" />
-
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>What I build</strong><br>
+      Agent runtimes, benchmark labs, applied AI research packages, developer tooling, and compact product interfaces.
+    </td>
+    <td width="50%" valign="top">
+      <strong>What I optimize for</strong><br>
+      Reproducibility, observability, verification gates, practical workflows, and systems that survive real use.
+    </td>
+  </tr>
+</table>
